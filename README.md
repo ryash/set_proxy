@@ -45,6 +45,15 @@ Connect to the campus network; wifi or LAN.
 
 If all the above steps pass, congratulations!
 
+## Compatible Programs
+
+- Gnome System 
+- Git
+- Docker
+- Apt Installer
+- Environment
+
+
 # support
 
 For any queries, please raise an issue or contact github@thealphadollar.
